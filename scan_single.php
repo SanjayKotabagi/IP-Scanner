@@ -2,8 +2,8 @@
 header('Content-Type: application/json');
 
 
-$VT_API_KEY = "c0e98bb5e478ab006c5fdd2f2885716ba42a7bc702c562d3e52045d366555f8b";
-$ABUSE_API_KEY = "7f9db76fcbbac17849fd0af6dfd53178dd473cf185585d2f42b2a88bfaee3d153ba3dca884e0570d";
+$VT_API_KEY = "";
+$ABUSE_API_KEY = "";
 
 $ip = $_POST['ip'] ?? '';
 
