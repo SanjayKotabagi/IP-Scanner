@@ -23,7 +23,7 @@ The application performs bulk IP reputation analysis by integrating **VirusTotal
 
 ## Screenshot
 
-> Add a screenshot of the dashboard here.
+<img width="1910" height="887" alt="image" src="https://github.com/user-attachments/assets/5982342e-e708-4359-b25d-2c5e34384504" />
 
 ---
 
